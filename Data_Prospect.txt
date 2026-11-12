@@ -1,0 +1,232 @@
+# PROSPECTAI — Base de connaissances sur la qualification des prospects B2B
+
+## 1. Présentation du projet
+
+ProspectAI est un système intelligent d'aide à la recherche, à l'enrichissement et à la qualification de prospects commerciaux B2B.
+
+Le projet s'inscrit dans le cadre du challenge IA organisé autour de Givaudan.
+
+Son objectif est de transformer des informations initialement limitées sur une entreprise en un dossier commercial structuré, documenté et exploitable.
+
+À partir du nom d'une entreprise, de son site Internet ou d'autres informations initiales, ProspectAI doit permettre de rechercher, centraliser et analyser les informations utiles à une éventuelle relation commerciale.
+
+## 2. Présentation du marché de Givaudan
+
+Givaudan est une entreprise internationale spécialisée dans les parfums, les arômes et les solutions destinées notamment aux marchés de l'alimentation, des boissons, de la beauté et du bien-être.
+
+Ses activités concernent notamment :
+
+- Les arômes alimentaires.
+- Les solutions pour les boissons.
+- Les ingrédients et solutions destinés à l'industrie alimentaire.
+- Les parfums pour les produits de consommation.
+- Les fragrances destinées à la parfumerie.
+- Les solutions pour les produits de beauté et de soin.
+
+Les entreprises susceptibles de présenter un intérêt commercial peuvent notamment être des fabricants de boissons, des industriels de l'agroalimentaire, des fabricants de cosmétiques, des marques de parfumerie et des entreprises développant des produits de consommation.
+
+L'appartenance à ces secteurs ne suffit cependant pas à démontrer l'existence d'une opportunité commerciale.
+
+## 3. Définition d'un prospect B2B
+
+Un prospect B2B est une organisation susceptible d'acheter les produits ou services proposés par une autre entreprise.
+
+Dans le contexte de Givaudan, un prospect potentiel peut être une entreprise qui développe, fabrique ou commercialise des produits nécessitant des arômes, des parfums ou des solutions adaptées à ses marchés.
+
+La qualification consiste à déterminer si cette entreprise correspond réellement à une cible commerciale pertinente.
+
+## 4. Informations nécessaires à la qualification
+
+### 4.1 Identité de l'entreprise
+
+Les informations à rechercher sont :
+
+- Nom officiel de l'entreprise.
+- Site Internet.
+- Pays d'implantation.
+- Adresse du siège social.
+- Année de création, si disponible.
+- Secteur d'activité.
+- Principales filiales et marques.
+
+### 4.2 Taille et situation économique
+
+Les informations recherchées comprennent :
+
+- Nombre de salariés.
+- Chiffre d'affaires publié.
+- Évolution de l'activité.
+- Présence internationale.
+- Implantations industrielles.
+- Capacité de production, lorsque cette information est publique.
+
+Ces données permettent d'estimer la taille et le potentiel économique du prospect.
+
+### 4.3 Activités et produits
+
+Il est important d'identifier :
+
+- Les catégories de produits commercialisés.
+- Les matières premières ou ingrédients utilisés, lorsqu'ils sont connus.
+- Les marchés ciblés.
+- Les innovations récentes.
+- Les nouveaux produits lancés.
+- Les évolutions de gamme.
+
+Ces éléments peuvent révéler des besoins potentiels en arômes, parfums ou ingrédients spécialisés.
+
+### 4.4 Recrutement et offres d'emploi
+
+Les offres d'emploi peuvent constituer des signaux d'activité ou de transformation.
+
+Exemples :
+
+- Recrutement d'un responsable recherche et développement.
+- Recrutement d'un ingénieur formulation.
+- Recrutement d'un responsable innovation.
+- Recrutement d'un responsable achats.
+- Développement d'une équipe de recherche.
+
+Une offre d'emploi ne démontre pas automatiquement un besoin commercial. Elle constitue un indice à analyser avec d'autres informations.
+
+### 4.5 Innovation et actualités
+
+Les informations à rechercher comprennent :
+
+- Lancement de nouveaux produits.
+- Investissements industriels.
+- Ouverture de nouveaux sites.
+- Développement de nouvelles gammes.
+- Partenariats stratégiques.
+- Acquisition d'entreprises.
+- Engagements environnementaux.
+- Développement de produits naturels ou durables.
+
+Ces informations peuvent aider à comprendre les orientations stratégiques du prospect.
+
+### 4.6 Décideurs et contacts professionnels
+
+Lorsque ces informations sont publiquement disponibles, il est utile d'identifier :
+
+- Directeur général.
+- Directeur des achats.
+- Responsable recherche et développement.
+- Responsable innovation.
+- Directeur marketing.
+- Responsable formulation.
+- Responsable développement produit.
+
+L'identification d'un décideur doit toujours être accompagnée d'une source vérifiable.
+
+## 5. Signaux d'opportunité commerciale
+
+Un signal commercial est une information pouvant indiquer qu'une entreprise présente un intérêt particulier pour une offre.
+
+Exemples :
+
+1. Lancement d'une nouvelle boisson.
+2. Développement d'une gamme de produits cosmétiques.
+3. Recherche de nouvelles formulations.
+4. Recrutement d'un ingénieur spécialisé en formulation.
+5. Développement d'une activité internationale.
+6. Investissement dans une nouvelle unité de production.
+7. Recherche de solutions plus naturelles ou durables.
+
+Plusieurs signaux concordants peuvent renforcer l'intérêt d'un prospect.
+
+## 6. Méthode de qualification
+
+Chaque entreprise doit être évaluée selon plusieurs critères.
+
+### Adéquation sectorielle
+
+L'entreprise évolue-t-elle dans un secteur où les solutions de Givaudan peuvent être pertinentes ?
+
+### Adéquation produit
+
+Ses produits ou activités peuvent-ils nécessiter des arômes, des parfums ou des ingrédients spécialisés ?
+
+### Potentiel économique
+
+Sa taille, son activité et son développement permettent-ils d'envisager une opportunité commerciale ?
+
+### Dynamique d'innovation
+
+L'entreprise lance-t-elle de nouveaux produits ou développe-t-elle de nouvelles formulations ?
+
+### Signaux d'achat
+
+Existe-t-il des indices publics d'un besoin potentiel ?
+
+### Accessibilité commerciale
+
+Des interlocuteurs professionnels pertinents sont-ils identifiables ?
+
+## 7. Proposition de notation
+
+ProspectAI peut utiliser un score indicatif sur 100 points.
+
+- Adéquation sectorielle : 20 points.
+- Adéquation produit : 20 points.
+- Potentiel économique : 15 points.
+- Innovation et développement : 15 points.
+- Signaux d'opportunité : 20 points.
+- Accessibilité commerciale : 10 points.
+
+Interprétation indicative :
+
+- 80 à 100 : prospect prioritaire.
+- 60 à 79 : prospect intéressant.
+- 40 à 59 : prospect à approfondir.
+- 0 à 39 : faible adéquation identifiée.
+
+Le score doit être accompagné d'une justification et d'un niveau de confiance. Une information inconnue ne doit pas être considérée comme une preuve d'absence d'opportunité.
+
+## 8. Fiabilité et traçabilité des informations
+
+Chaque information collectée doit comporter, dans la mesure du possible :
+
+- Sa valeur.
+- Sa source.
+- Son URL.
+- Sa date de publication.
+- Sa date de collecte.
+- Son niveau de fiabilité.
+
+Il faut distinguer :
+
+- Les faits vérifiés.
+- Les déclarations de l'entreprise.
+- Les informations rapportées par des tiers.
+- Les hypothèses produites par l'intelligence artificielle.
+
+Une hypothèse ne doit jamais être présentée comme un fait.
+
+Les données personnelles doivent être limitées aux informations professionnelles pertinentes et publiquement accessibles.
+
+## 9. Rôle de l'intelligence artificielle dans ProspectAI
+
+Le système utilise deux modèles complémentaires.
+
+Nomic Embed Text transforme les documents en représentations vectorielles afin de permettre une recherche sémantique.
+
+Qwen 3.5 4B analyse les passages retrouvés et formule des réponses contextualisées.
+
+ChromaDB conserve les représentations vectorielles et permet de retrouver les informations pertinentes.
+
+FastAPI expose les fonctionnalités du système à travers une API.
+
+## 10. Résultats attendus
+
+Pour chaque prospect analysé, ProspectAI doit pouvoir produire :
+
+- Une présentation synthétique de l'entreprise.
+- Une analyse de son secteur d'activité.
+- Les principaux signaux commerciaux identifiés.
+- Les opportunités potentielles pour Givaudan.
+- Les éléments manquants à rechercher.
+- Un score de qualification justifié.
+- Les sources utilisées.
+- Une recommandation commerciale indicative.
+
+L'objectif final est de faciliter le travail de recherche et de qualification commerciale en réduisant le temps nécessaire à la constitution d'un dossier prospect fiable.
